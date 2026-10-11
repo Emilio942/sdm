@@ -1,0 +1,38 @@
+{
+ "N16_s0.01": {
+  "t_cliff": null,
+  "final": 0.474
+ },
+ "N16_s0.02": {
+  "t_cliff": null,
+  "final": 0.3802
+ },
+ "N16_s0.03": {
+  "t_cliff": null,
+  "final": 0.2969
+ },
+ "N64_s0.01": {
+  "t_cliff": 240,
+  "final": 0.0
+ },
+ "N64_s0.02": {
+  "t_cliff": 260,
+  "final": 0.0
+ },
+ "N64_s0.03": {
+  "t_cliff": 260,
+  "final": 0.0
+ },
+ "N256_s0.01": {
+  "t_cliff": 200,
+  "final": 0.0
+ },
+ "N256_s0.02": {
+  "t_cliff": 200,
+  "final": 0.0
+ },
+ "N256_s0.03": {
+  "t_cliff": 220,
+  "final": 0.0
+ }
+}
